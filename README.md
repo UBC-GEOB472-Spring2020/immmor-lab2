@@ -5,6 +5,7 @@
 
 Link to the map:
 https://ubc-geob472-spring2020.github.io/immmor-lab2/
+Other codes: https://github.com/UBC-GEOB472-Spring2020/immmor-lab2part2
 
 Collaboration and reliance on other resources: I did this map all by myself, but I do get some feedbacks from Oliver. There is no explanation or no theme about this map at the beginning. Oliver suggests that I need to make a "story" to link all these effects in my map. Then I made my map a math problem for tutorial. At the beginning, the yes or no effect for button is just ugly pop-ups without any cool stuff. He suggested me to change and add something. So I go to Code Pen website and find out that lightning effect. There is no explanation or no theme about this map at the beginning. Oliver suggests that I need to make a "story" to link all these effects in my map. Then I made my map a math problem for tutorial. I used the mapbox example for distance measurement: https://docs.mapbox.com/mapbox-gl-js/example/measure/. The yes or no effect is from codepen.
 
