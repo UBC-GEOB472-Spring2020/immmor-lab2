@@ -12,23 +12,33 @@
   <!-- jQuery is a library that simplifies many things in JavaScript. 
 	     We'll use it to retrieve data from the web. -->
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <style>
+  
+    
+</style>
 
 </head>
 
 <body>
+ 
+
+
 
   <div id="mapid" style="width: 100%; height: 750px;">
   
   </div>
   <!-- Our web map will get placed into this div element -->
 
-  <div id="controls" style="margin: 15px;">
+  <div id="controls" style="margin: 15px; position: absolute;">
     <button id="showAllTreesButton">Show All Parking Lots</button>
 
     <span style="display:inline-block; width: 30px"></span>
     <input type="text" id="highlightTreesTextEntry" placeholder="Parking Lot Name">
     <button id="highlightTreesButton">Highlight</button>
-    <button onclick="window.location.href = 'https://ubc-geob472-spring2020.github.io/FilteringLeaflet/';" style="right: 0px;">Reset</button>
+    <button onclick="window.location.href = 'https://ubc-geob472-spring2020.github.io/FilteringLeaflet/';" style="right: 0px; ">Reset</button>
+    <span style="display:inline-block; width: 100px"></span>
+    <button onclick="window.location.href = 'https://ubc-geob472-spring2020.github.io/FilteringLeaflet/';" style="right: 0px; ">Earthquake Escape!!!</button>
+    
 
   </div>
 
