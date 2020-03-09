@@ -1,4 +1,4 @@
-# immmor-lab2
+# Earthquake Escape!!!!
 
 
 ![alt text](https://github.com/UBC-GEOB472-Spring2020/immmor-lab2/blob/master/1.png "shot")
